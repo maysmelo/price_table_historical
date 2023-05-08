@@ -10,3 +10,7 @@ I'm using Python to:
 - use pysqldf to join the two different dataframes and explore the data;
 - export the output on CSV file;
 - visualize and come up with insights about the data.
+
+
+Plotlib graph:
+>![2023-05-08 15 21 47](https://user-images.githubusercontent.com/124809927/236835441-9ccc08d1-388a-42ce-bf09-6c9043029517.gif)
